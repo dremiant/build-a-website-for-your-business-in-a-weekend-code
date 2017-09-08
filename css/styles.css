@@ -1,0 +1,43 @@
+
+/*start navigation*/
+.navbar{
+background-color: #e3f2fd;
+color:black;
+}
+
+a.nav-item{
+color:black
+}
+
+a.active{
+color:grey;
+}
+
+.navbar-brand{
+color:black
+}
+
+/*
+end navigation
+*/
+
+
+
+
+/*styles for main content on page*/
+.box {
+width:70%;
+height:wrap-content;
+background:#FFF;
+margin:40px auto;
+padding:20px;
+}
+
+.basic{
+-webkit-box-shadow: 0 10px 6px -6px #777;
+-moz-box-shadow: 0 10px 6px -6px #777;
+box-shadow: 0 10px 6px -6px #777;
+}
+
+
+/*end of styles for main content*/
